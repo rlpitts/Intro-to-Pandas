@@ -6,7 +6,7 @@ If you only plan to watch the lectures, you don't technically have to download a
 
 To follow along or tinker with the **demos** during the presentation, you will need to download `PandasIntro.ipynb` and the exoplanets CSV file.
 
-To do the **exercises**, you will need to download `PandasExercises.ipynb`, `covid19_italy_region.csv`, and `ita_pop_by_reg,txt`. The solutions are also provided, but you are encouraged to try the exercises without them first.
+To do the **exercises**, you will need to download `PandasExercises.ipynb`, `covid19_italy_region.csv`, and `ita_pop_by_reg.txt`. The solutions are also provided, but you are encouraged to try the exercises without them first.
 
 The PDF is a copy of the lecture slides.
 
